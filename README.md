@@ -1,7 +1,6 @@
 # Hi, I'm Alireza! 👋
 
-I am a **front-end developer** focused on creating modern, user-friendly interfaces. I strive to write clean, maintainable code and use the latest technologies to build high-quality projects.
-
+just a normal frontend-developer and student
 ## Skills & Technologies
 
 - **React** | **Next.js**
