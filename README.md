@@ -1,6 +1,7 @@
 # Hi, I'm Alireza! 👋
 
 just a normal frontend-developer and student
+live site : https://say-alireza.github.io/nextjs-resume/
 ## Skills & Technologies
 
 - **React** | **Next.js**
