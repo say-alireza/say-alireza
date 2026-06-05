@@ -18,9 +18,9 @@ Currently, I'm pursuing my **Bachelor's in Computer Engineering** — The mix of
 I genuinely enjoy the process.
 ##  My Focus Areas
 
-- **Frontend Development** — React, Next.js, and making things look & feel smooth
-- **Advanced React Patterns** — currently diving into Redux Toolkit, Zustand, and whatever makes state management less painful
-- **Next.js** — SSR, SSG, App Router, server actions... trying to master it all
+- **Frontend Development** — React, Nextjs
+- **Advanced React Patterns** — currently diving into Redux Toolkit, Zustand
+- **Next.js** — SSR, SSG, App Router, server actions... 
 - **AI Basics**
 
 
