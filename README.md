@@ -1,5 +1,5 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30px" width="30px"> I'm Alireza </h1>
-<h3 align="center">Front end Dev &  CE student </h3>
+<h3 align="center">Front end Dev & CE student</h3>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=say-alireza">
@@ -7,15 +7,22 @@
   </a>
 </p>
 
-<img src="https://i.pinimg.com/originals/22/16/5b/22165b850f5da24a7c5114fa99e411b2.gif" alt="Banner" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
-- Im currently learning
 
+Hey! I'm Alireza, a Computer Engineering student balancing university life with my obsession for building cool stuff on the web.
+
+Currently, I'm pursuing my **Bachelor's in Computer Engineering** — The mix of hardware fundamentals and software logic keeps things interesting.
+
+I genuinely enjoy the process. There's something satisfying about seeing a design come to life or finally solving that one bug that's been haunting you for hours.
 
 ## 🧠 My Focus Areas
-- web development
-- AI basics
+
+- **Frontend Development** — React, Next.js, and making things look & feel smooth
+- **Advanced React Patterns** — currently diving into Redux Toolkit, Zustand, and whatever makes state management less painful
+- **Next.js** — SSR, SSG, App Router, server actions... trying to master it all
+- **AI Basics**
 
 
 ## 📊 GitHub Stats & Trophies
@@ -32,7 +39,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />
-
 </p>
 
 <h3 align="center">Frontend</h3>
@@ -43,25 +49,21 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" />
-
 </p>
 
 <h3 align="center">Backend</h3>
 <p align="center">
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" />
-
 </p>
 
 <h3 align="center">DevOps & Cloud</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />
-
 </p>
 
 <h3 align="center">Tools</h3>
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />
-
 </p>
 
 <p align="center">
@@ -72,13 +74,17 @@
 
 ## 🔗 Connect with Me
 <p align="center">
-  <a href="https://ir.linkedin.com/in/alireza-rahimpanah-b7010a301"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Alireza 's LinkedIn"/></a>&nbsp;&nbsp;
-  <a href="mailto:a.rahimpanah71@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Alireza 's Email"/></a>&nbsp;&nbsp;
+  <a href="https://ir.linkedin.com/in/alireza-rahimpanah-b7010a301"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Alireza's LinkedIn"/></a>&nbsp;&nbsp;
+  <a href="mailto:a.rahimpanah71@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Alireza's Email"/></a>&nbsp;&nbsp;
   <a href="https://say-alireza.github.io/nextjs-resume/"><img align="center" src="https://img.shields.io/badge/Website-46BC99?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Website"/></a>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+</picture>
 
-
+<!-- <div align="center">
+  <img src="none" alt="Bottom Line" width="100%" />
+</div> -->
