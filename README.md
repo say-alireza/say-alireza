@@ -13,7 +13,7 @@
 
 Hey! I'm Alireza, a Computer Engineering student balancing university life with my obsession for building cool stuff on the web.
 
-Currently, I'm pursuing my **Bachelor's in Computer Engineering** — The mix of hardware fundamentals and software logic keeps things interesting.
+Currently, I'm pursuing my **Bachelor's in Computer Engineering** — The mix of fundamentals and software logic keeps things interesting.
 
 I genuinely enjoy the process.
 ##  My Focus Areas
