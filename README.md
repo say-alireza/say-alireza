@@ -9,14 +9,14 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
-## 📌 About Me
+##  About Me
 
 Hey! I'm Alireza, a Computer Engineering student balancing university life with my obsession for building cool stuff on the web.
 
 Currently, I'm pursuing my **Bachelor's in Computer Engineering** — The mix of hardware fundamentals and software logic keeps things interesting.
 
 I genuinely enjoy the process.
-## 🧠 My Focus Areas
+##  My Focus Areas
 
 - **Frontend Development** — React, Next.js, and making things look & feel smooth
 - **Advanced React Patterns** — currently diving into Redux Toolkit, Zustand, and whatever makes state management less painful
@@ -24,13 +24,13 @@ I genuinely enjoy the process.
 - **AI Basics**
 
 
-## 📊 GitHub Stats & Trophies
+##  GitHub Stats 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=say-alireza&theme=dark&hide_border=true&cache_seconds=86400" alt="say-alireza's GitHub Streak" width="49%" />
 </p>
 
 
-## 🛠️ Languages & Tools
+##  Languages & Tools
 
 <h3 align="center">Programming Languages</h3>
 <p align="center">
