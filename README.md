@@ -15,8 +15,7 @@ Hey! I'm Alireza, a Computer Engineering student balancing university life with 
 
 Currently, I'm pursuing my **Bachelor's in Computer Engineering** — The mix of hardware fundamentals and software logic keeps things interesting.
 
-I genuinely enjoy the process. There's something satisfying about seeing a design come to life or finally solving that one bug that's been haunting you for hours.
-
+I genuinely enjoy the process.
 ## 🧠 My Focus Areas
 
 - **Frontend Development** — React, Next.js, and making things look & feel smooth
