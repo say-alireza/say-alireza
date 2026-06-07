@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30px" width="30px">  Alireza Rahimpanah </h1>
+  <h1 align="center"><img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30px" width="30px">  Alireza Rahimpanah </h1>
 <h3 align="center">Front end Dev & CE student</h3>
 
 <!-- <p align="center">
@@ -12,11 +12,7 @@
 
 ##  About Me
 
-Hey! I'm Alireza, a Computer Engineering student balancing university life with my obsession for building cool stuff on the web.
-
-Currently, I'm pursuing my **Bachelor's in Computer Engineering** — The mix of fundamentals and software logic keeps things interesting.
-
-I genuinely enjoy the process.
+  A CE student learning new things .
 ##  My Focus Areas
 
 - **Frontend Development** — React, Nextjs
