@@ -1,4 +1,5 @@
-  <h1 align="center"><img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30px" width="30px">  Alireza Rahimpanah </h1>
+  <h1 align="center"> Alireza Rahimpanah </h1>
+  <!-- <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30px" width="30px">  -->
 <!-- <h3 align="center">Dev & CE student</h3> -->
 
 <!-- <p align="center">
