@@ -24,6 +24,10 @@ A CE student learning new things.
 
 ## Languages & Tools
 
+<details>
+<summary><b>Click to expand Tech Stack & Tools</b></summary>
+<br />
+
 <h3 align="center">Programming Languages</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;
@@ -57,6 +61,8 @@ A CE student learning new things.
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />
 </p>
+
+</details>
 
 <br />
 
