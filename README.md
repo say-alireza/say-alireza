@@ -1,6 +1,6 @@
 <h1 align="center">Alireza Rahimpanah</h1>
 
-<h2 align="center">Connect with Me</h2>
+<!-- <h2 align="center">Connect with Me</h2> -->
 
 <p align="center">
   <a href="https://ir.linkedin.com/in/alireza-rahimpanah-b7010a301"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Alireza's LinkedIn"/></a>&nbsp;&nbsp;
