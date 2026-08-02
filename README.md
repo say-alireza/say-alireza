@@ -25,7 +25,7 @@ A CE student learning new things.
 ## Languages & Tools
 
 <details>
-<summary><b>Click to expand Tech Stack & Tools</b></summary>
+<summary><b>Click to expand Tech Stack</b></summary>
 <br />
 
 <h3 align="center">Programming Languages</h3>
