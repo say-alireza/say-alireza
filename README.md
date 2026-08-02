@@ -1,33 +1,28 @@
-  <h1 align="center"> Alireza Rahimpanah </h1>
-  <!-- <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30px" width="30px">  -->
-<!-- <h3 align="center">Dev & CE student</h3> -->
+<h1 align="center">Alireza Rahimpanah</h1>
 
-<!-- <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=say-alireza">
-    <img src="https://komarev.com/ghpvc/?username=say-alireza&label=Profile%20views&color=00FFFF&style=flat-square" alt="say-alireza's profile views" />
-  </a>
-</p> -->
+<h2 align="center">Connect with Me</h2>
 
-<!-- <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" /> -->
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/491e3e44-11a0-487a-b07b-717f677bbe4a" width="100%">
+<p align="center">
+  <a href="https://ir.linkedin.com/in/alireza-rahimpanah-b7010a301"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Alireza's LinkedIn"/></a>&nbsp;&nbsp;
+  <a href="mailto:a.rahimpanah71@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Alireza's Email"/></a>&nbsp;&nbsp;
+  <a href="https://say-alireza.github.io/nextjs-resume/"><img src="https://img.shields.io/badge/Website-46BC99?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Website"/></a>
+</p>
 
-##  About Me
+<br />
 
-  A CE student learning new things .
-##  My Focus Areas
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/491e3e44-11a0-487a-b07b-717f677bbe4a" width="100%" />
 
-- **Frontend Development** — React, Nextjs
-- **Advanced React Patterns** — currently diving into Redux Toolkit, Zustand
-- **Next.js** — SSR, SSG, App Router, server actions... 
-- **AI Basics**
+## About Me
 
+A CE student learning new things.
 
-<!-- <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=say-alireza&theme=dark&hide_border=true&cache_seconds=86400" alt="say-alireza's GitHub Streak" width="49%" />
-</p> -->
+## My Current Focus Areas
 
+- **Frontend Development** — React, Next.js
+- **Next.js** — SSR, SSG, App Router, server actions...
+- **Backend Development** — Django, PostgreSQL, RESTful APIs
 
-##  Languages & Tools
+## Languages & Tools
 
 <h3 align="center">Programming Languages</h3>
 <p align="center">
@@ -49,7 +44,8 @@
 
 <h3 align="center">Backend</h3>
 <p align="center">
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" />
 </p>
 
 <h3 align="center">DevOps & Cloud</h3>
@@ -62,17 +58,12 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />
 </p>
 
+<br />
+
 <p align="center">
   <a href="https://github.com/say-alireza">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=say-alireza&langs_count=8&layout=compact&theme=dark&border_radius=10" alt="Top Languages" />
   </a>
-</p>
-
-## 🔗 Connect with Me
-<p align="center">
-  <a href="https://ir.linkedin.com/in/alireza-rahimpanah-b7010a301"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Alireza's LinkedIn"/></a>&nbsp;&nbsp;
-  <a href="mailto:a.rahimpanah71@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Alireza's Email"/></a>&nbsp;&nbsp;
-  <a href="https://say-alireza.github.io/nextjs-resume/"><img align="center" src="https://img.shields.io/badge/Website-46BC99?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Website"/></a>
 </p>
 
 <picture>
@@ -80,7 +71,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
 </picture>
-
-<!-- <div align="center">
-  <img src="none" alt="Bottom Line" width="100%" />
-</div> -->
