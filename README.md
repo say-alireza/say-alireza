@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://ir.linkedin.com/in/alireza-rahimpanah-b7010a301"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Alireza's LinkedIn"/></a>&nbsp;&nbsp;
   <a href="mailto:a.rahimpanah71@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Alireza's Email"/></a>&nbsp;&nbsp;
-  <a href="https://say-alireza.github.io/nextjs-resume/"><img src="https://img.shields.io/badge/Website-46BC99?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Website"/></a>
+  <a href="https://cv.alirezarp.ir/"><img src="https://img.shields.io/badge/Website-46BC99?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Website"/></a>
 </p>
 
 <br />
