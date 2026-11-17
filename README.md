@@ -24,8 +24,6 @@ A CE student learning new things.
 
 ## Languages & Tools
 
-<details>
-<summary><b>Click to expand Tech Stack</b></summary>
 <br />
 
 <h3 align="center">Programming Languages</h3>
@@ -62,7 +60,6 @@ A CE student learning new things.
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />
 </p>
 
-</details>
 
 <br />
 
@@ -70,7 +67,7 @@ A CE student learning new things.
   <a href="https://github.com/say-alireza">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=say-alireza&langs_count=8&layout=compact&theme=dark&border_radius=10" alt="Top Languages" />
   </a>
-</p>
+</p> 
 
 <!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
